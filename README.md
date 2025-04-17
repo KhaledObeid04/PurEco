@@ -11,6 +11,9 @@ The PurEco air purifier is a universal, adaptable system designed to fit seamles
 
 **Our Team**
 
-Khaled Obeid, our CEO, is an early entry Master’s student in Bioinformatics. He leads company strategy, product development, and business operations, ensuring PurEco's growth and alignment with its mission.
-Liza Gugieva, our CTO, is an undergraduate student in bioinformatics. She oversees the research, development, and application of cutting-edge microbial technologies, driving innovation in air purification.
-Aiden Schawb, our CFO, is an undergraduate student in Bioinformatics. He manages financial planning, budgeting, and strategic investments to support sustainable growth and operational efficiency.
+* Khaled Obeid, our CEO, is an early entry Master’s student in Bioinformatics. He leads company strategy, product development, and business operations, ensuring PurEco's growth and alignment with its mission.
+* Liza Gugieva, our CTO, is an undergraduate student in bioinformatics. She oversees the research, development, and application of cutting-edge microbial technologies, driving innovation in air purification.
+* Aiden Schawb, our CFO, is an undergraduate student in Bioinformatics. He manages financial planning, budgeting, and strategic investments to support sustainable growth and operational efficiency.
+
+**Diagram of Product**
+![image](https://github.com/user-attachments/assets/263aedfe-7be5-4253-a991-9d3828c1e938)
