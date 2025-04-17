@@ -1,5 +1,5 @@
 # PurEco
-![image](https://github.com/user-attachments/assets/379ff7fc-8716-43de-b9c5-9110e526bba0)
+![image](https://github.com/user-attachments/assets/936b688a-da35-4fe7-8cde-d3c14e16937b)
 
 **Problem**
 
